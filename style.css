@@ -1,0 +1,242 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar-brand{
+    color: black;
+    font-size: 25;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    font-weight: bold;
+    color: black;
+}
+.nav-link:active,.nav-link:visited{
+    color: black;
+}
+.navbar-brand:hover{
+    color: black;
+}
+.btn{
+    background-color: navy;
+    border-radius: 25px;
+    color: rgb(255, 162, 0);
+    border-color: navy;
+}
+.btn:hover{
+    color: black;
+    border-color: gray;
+}
+.navbar{
+    background-color: white;
+    box-shadow: none;
+}
+.secendSection{
+    margin-top: 150px;
+}
+.welcome{
+    color: rgb(255, 162, 0);
+    background-color: rgba(243, 232, 205, 0.845);
+    border-radius: 25px;
+    padding: 7px 15px;
+    font-size: 14px;
+    font-weight: 900;
+    width: fit-content;
+}
+.description{
+    color: navy;
+    font-size: 50px;
+    font-weight:500;
+
+}
+.method{
+    color: gray;
+    font-size: 15px;
+    margin-bottom: 35px;
+}
+.first-button,.second-button:hover{
+    background-color: navy;
+    border-radius: 25px;
+    color: white;
+    border-color: navy;
+    padding:12px  26px;
+    font-size: 15px;
+    box-shadow: none;
+}
+
+.second-button,.first-button:hover{
+    background-color:white;
+    border-radius: 25px;
+    color:navy;
+    border: 1px navy solid;
+    padding:12px 26px ;
+    font-size: 15px;
+    font-weight: 200;
+    box-shadow: none;
+}
+.thirdSection
+{
+    width: 600px;
+    text-align: center;
+    margin-top: 220px;
+}
+.center
+{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.fa-rocket ,.fa-thumbtack,.fa-trophy
+{
+    font-size: 40px;
+    color:rgb(217, 199, 199);
+}
+.title{
+    font-size: 19px;
+    color: black;
+    text-align: center;
+    font-weight: 700;
+}
+.forthSection{
+    margin-top: 50px;
+}
+.question
+{
+    font-size: 45px;
+    font-weight: bold;
+    color: navy;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.why
+{
+    font-size: 15px;
+    color: gray;
+}
+.sixSection
+{
+    margin-top: 200px;
+    text-align: center;
+}
+.inside
+{
+    margin-top: 50px;
+}
+.carda
+{
+    width: 500px;
+    text-align: left;
+    box-shadow: none;
+    border: 1px solid gray;
+}
+.card-title
+{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+}
+.card-text
+{
+    font-size: 18px;
+    color: gray;
+}
+footer
+{
+    margin-top: 100px;
+}
+.fFooter
+{
+    padding-top: 50px;
+}
+.fab
+{
+    font-size: 30px;
+    color: navy;
+}
+.text-uppercase
+{
+    color: black;
+    font-size: 15px;
+}
+.fFooter p
+{
+    font-size: 15px;
+}
+.fFooter p:hover
+{
+    color: black;
+}
+.icona
+{
+    font-size: 50px;
+    padding: 40px 30px;
+    
+}
+.icona .fas
+{
+    color: gray;
+}
+.sevenSection
+{
+    background-color: rgb(255, 249, 249);
+    width: 100%;
+    height: 700px;
+    text-align: center;
+    margin-top: 220px;
+    position: relative;   
+}
+.titled{
+    width: 600px;
+    margin  : 70px auto;
+    padding-top:90px ;
+}
+.slide1
+{
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid gray;
+    width: 350px;
+    height: 250px;
+    margin-left: 50px;
+}
+.small-content img
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+}
+.p-slider
+{
+    padding: 15px;
+    color: gray;
+    font-size: 15px;
+}
+.small-content
+{
+    display: flex;
+    justify-content:baseline;
+    align-items: center;
+    padding: 0px 50px;
+}
+.p11 , .p22
+{
+    display: inline-block;
+}
+.p11
+{
+    font-size: 18px;
+    font-weight: bold;
+    color: gray;
+}
+.p22
+{
+    font-size: 15px;
+    color: gray;
+}
+.carousel-indicators
+{
+    position: absolute;
+    bottom: -100px;
+}
